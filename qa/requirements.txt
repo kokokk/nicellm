@@ -1,0 +1,14 @@
+python-dotenv
+langchain
+openai
+pypdf
+chromadb
+tiktoken
+requests
+beautifulsoup4
+langchainhub
+
+
+
+
+#pysqlite3-binary
