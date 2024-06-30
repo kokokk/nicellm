@@ -7,8 +7,9 @@ tiktoken
 requests
 beautifulsoup4
 langchainhub
-
-
+streamlit
+semantic-router
+langchain-community
 
 
 #pysqlite3-binary
